@@ -5,7 +5,7 @@
 > **Category:** Windows / Network Enumeration / Privilege Escalation  
 > **Difficulty:** Record the room's current displayed difficulty here  
 > **Status:** Completed in the lab; public write-up sanitized  
-> **Author:** `<YOUR_NAME_OR_GITHUB_USERNAME>`
+> **Author:** `<Arjun-2004-viswam>`
 
 A practical walkthrough documenting the enumeration, initial access, Windows privilege-escalation investigation, and administrative access path observed in the **Year of the Owl** TryHackMe room.
 
