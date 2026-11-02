@@ -1,0 +1,21 @@
+# Never commit sensitive lab artifacts
+*.ovpn
+*.pem
+*.key
+*.pfx
+*.p12
+sam
+sam.bak
+system
+system.bak
+*.hash
+*.pot
+.env
+.env.*
+credentials.*
+secrets.*
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
